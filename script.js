@@ -144,3 +144,5 @@ function drf() {
 }
 drf();
 console.log(ff);
+
+var a = 1;
